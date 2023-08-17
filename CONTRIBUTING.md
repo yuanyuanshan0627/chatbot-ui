@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-**Welcome to Chatbot UI!**
+**Welcome to 影子灰!**
 
 We appreciate your interest in contributing to our project.
 
